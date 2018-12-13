@@ -1,0 +1,84 @@
+h1{
+    color: #585858;
+    text-decoration: none;
+    border-width: 0 0 1px 0;
+    border-color: #c0c0c0;
+    text-align: center;
+    font: inherit;
+    font-family:'Oxygen', sans-serif;
+    font-size: 25px;
+    vertical-align: baseline;
+}
+/* .Site {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+.Site-content {
+    display: flex;
+    flex: 1;
+  }
+  .Site-footer {
+    flex: none;
+  
+} */
+a{
+   color: inherit;
+   text-decoration:none;
+}
+body{
+    align-content: center;
+    background:#F5F5F5;
+    display:grid;
+    justify-content: center;
+    margin-bottom: 20%;
+    margin-top: 20%;
+    text-align: center;
+    font-family:'Oxygen', sans-serif;
+    font-size: 17px;
+    color: #585858;
+}
+
+/* .container{ 
+ align-content: center;
+  align-items: center;
+  color: white;
+  display:grid;
+  grid-gap: 3px;
+  grid-template-columns: repeat(3,1fr);
+  left: 50%;
+  line-height: 100px;
+  margin: 20px;
+  top: 50%;
+  grid-row: 10px;
+} */
+
+/* .github{
+  background-image: url('logos/github-logo.png');  
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  margin: 30 px;
+  position: inherit;
+  margin: 5px;
+  vertical-align: center;
+  position: absolute; 
+}
+
+.linkedin{
+    background-image: url('logos/linkedin.png');  
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    position: absolute; 
+} */
+
+
+footer {
+    font-size: 12px;
+    font-family:'Oxygen', sans-serif;
+    text-decoration: none;
+    text-align: center;
+
+	}
